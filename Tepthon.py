@@ -388,11 +388,12 @@ async def spammer(event):
     
 @Tepthon.on(events.NewMessage(outgoing=True, pattern=".سورس"))
 async def _(event):
-      await event.reply("""السـورس يعمـل سيد
+      await event.reply("""السـورس يعمـل السيد يعمل بنجاح @syntral
 ╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍
 
 
-- سورس بسيط يحتوي على الاوامر المهمة التي تحتاجها
+- سورس بسيط يحتوي على الاوامر المهمة التي تحتاجها 
+- للدخول لسوبر المطور تفضل - @wwwllw .
 ╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍"""
 )
 
